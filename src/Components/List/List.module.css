@@ -8,3 +8,25 @@
     max-width: 50rem;
     
 }
+
+.list h2{
+    text-align: center;
+    margin-top: -.5rem;
+}
+
+.list li{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.list li button{
+    margin: .2rem .5rem;
+}
+
+
+ .list input{
+    width: 1.4rem;
+    font-weight: bold; 
+    padding: .2rem 1rem;
+}
